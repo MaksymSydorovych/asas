@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.wrapper {
+  width: 1280px;
+  background: rgb(227, 245, 248);
+  margin: 0 auto;
+}
+main {
+  text-align: center;
+}
+.message {
+  color: red;
+  font-size: 40px;
+}
+.home-container {
+  margin-top: 2rem;
+  text-align: center;
+}
+.articles {
+  border: 1px solid blue;
+  max-width: 50%;
+  margin: 0 auto;
+  padding: 1em;
+}
+i {
+  font-size: 30px;
+  cursor: pointer;
+}
